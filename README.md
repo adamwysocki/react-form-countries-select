@@ -1,7 +1,7 @@
 # react-form-countries-select
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-[ ![Codeship Status for adamwysocki/react-form-states-select](https://app.codeship.com/projects/0f13f5d0-cd5a-0135-da01-166a8e542bbe/status?branch=master)](https://app.codeship.com/projects/262034)
+[ ![Codeship Status for adamwysocki/react-form-countries-select](https://app.codeship.com/projects/53f921d0-ce19-0135-f5d2-12fc92bced21/status?branch=master)](https://app.codeship.com/projects/262125)
 
 A React select component that displays contains countries and fires a callback when a new one is selected.
 
