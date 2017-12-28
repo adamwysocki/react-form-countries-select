@@ -1,0 +1,2501 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 1`] = `
+<div
+  className="sc-bdVaJa xcObV"
+>
+  <select
+    className=""
+    id="country"
+    name="country"
+    onChange={[Function]}
+    style={Object {}}
+  >
+    <option
+      value="null"
+    >
+      Select a country ...
+    </option>
+    <option
+      value={0}
+    >
+      Afghanistan
+    </option>
+    <option
+      value={1}
+    >
+      Aland Islands
+    </option>
+    <option
+      value={2}
+    >
+      Albania
+    </option>
+    <option
+      value={3}
+    >
+      Algeria
+    </option>
+    <option
+      value={4}
+    >
+      American Samoa
+    </option>
+    <option
+      value={5}
+    >
+      Andorra
+    </option>
+    <option
+      value={6}
+    >
+      Angola
+    </option>
+    <option
+      value={7}
+    >
+      Anguilla
+    </option>
+    <option
+      value={8}
+    >
+      Antarctica
+    </option>
+    <option
+      value={9}
+    >
+      Antigua and Barbuda
+    </option>
+    <option
+      value={10}
+    >
+      Argentina
+    </option>
+    <option
+      value={11}
+    >
+      Armenia
+    </option>
+    <option
+      value={12}
+    >
+      Aruba
+    </option>
+    <option
+      value={13}
+    >
+      Australia
+    </option>
+    <option
+      value={14}
+    >
+      Austria
+    </option>
+    <option
+      value={15}
+    >
+      Azerbaijan
+    </option>
+    <option
+      value={16}
+    >
+      Bahamas
+    </option>
+    <option
+      value={17}
+    >
+      Bahrain
+    </option>
+    <option
+      value={18}
+    >
+      Bangladesh
+    </option>
+    <option
+      value={19}
+    >
+      Barbados
+    </option>
+    <option
+      value={20}
+    >
+      Belarus
+    </option>
+    <option
+      value={21}
+    >
+      Belgium
+    </option>
+    <option
+      value={22}
+    >
+      Belize
+    </option>
+    <option
+      value={23}
+    >
+      Benin
+    </option>
+    <option
+      value={24}
+    >
+      Bermuda
+    </option>
+    <option
+      value={25}
+    >
+      Bhutan
+    </option>
+    <option
+      value={26}
+    >
+      Bolivia
+    </option>
+    <option
+      value={27}
+    >
+      Bonaire
+    </option>
+    <option
+      value={28}
+    >
+      Bosnia and Herzegovina
+    </option>
+    <option
+      value={29}
+    >
+      Botswana
+    </option>
+    <option
+      value={30}
+    >
+      Bouvet Island
+    </option>
+    <option
+      value={31}
+    >
+      Brazil
+    </option>
+    <option
+      value={32}
+    >
+      Brunei Darussalam
+    </option>
+    <option
+      value={33}
+    >
+      Bulgaria
+    </option>
+    <option
+      value={34}
+    >
+      Burkina Faso
+    </option>
+    <option
+      value={35}
+    >
+      Burundi
+    </option>
+    <option
+      value={36}
+    >
+      Cape Verde
+    </option>
+    <option
+      value={37}
+    >
+      Cambodia
+    </option>
+    <option
+      value={38}
+    >
+      Cameroon
+    </option>
+    <option
+      value={39}
+    >
+      Canada
+    </option>
+    <option
+      value={40}
+    >
+      Cayman Islands
+    </option>
+    <option
+      value={41}
+    >
+      Central African Republic
+    </option>
+    <option
+      value={42}
+    >
+      Chad
+    </option>
+    <option
+      value={43}
+    >
+      Chile
+    </option>
+    <option
+      value={44}
+    >
+      China
+    </option>
+    <option
+      value={45}
+    >
+      Christmas Island
+    </option>
+    <option
+      value={46}
+    >
+      Cocos Islands
+    </option>
+    <option
+      value={47}
+    >
+      Colombia
+    </option>
+    <option
+      value={48}
+    >
+      Comoros
+    </option>
+    <option
+      value={49}
+    >
+      Congo
+    </option>
+    <option
+      value={50}
+    >
+      The Democratic Republic of the Congo
+    </option>
+    <option
+      value={51}
+    >
+      Cook Islands
+    </option>
+    <option
+      value={52}
+    >
+      Costa Rica
+    </option>
+    <option
+      value={53}
+    >
+      Cote d'Ivoire
+    </option>
+    <option
+      value={54}
+    >
+      Croatia
+    </option>
+    <option
+      value={55}
+    >
+      Cuba
+    </option>
+    <option
+      value={56}
+    >
+      Curacao
+    </option>
+    <option
+      value={57}
+    >
+      Cyprus
+    </option>
+    <option
+      value={58}
+    >
+      Czech Republic
+    </option>
+    <option
+      value={59}
+    >
+      Denmark
+    </option>
+    <option
+      value={60}
+    >
+      Djibouti
+    </option>
+    <option
+      value={61}
+    >
+      Dominica
+    </option>
+    <option
+      value={62}
+    >
+      Dominican Republic
+    </option>
+    <option
+      value={63}
+    >
+      Ecuador
+    </option>
+    <option
+      value={64}
+    >
+      Egypt
+    </option>
+    <option
+      value={65}
+    >
+      El Salvador
+    </option>
+    <option
+      value={66}
+    >
+      Equatorial Guinea
+    </option>
+    <option
+      value={67}
+    >
+      Eritrea
+    </option>
+    <option
+      value={68}
+    >
+      Estonia
+    </option>
+    <option
+      value={69}
+    >
+      Ethiopia
+    </option>
+    <option
+      value={70}
+    >
+      Falkland Islands
+    </option>
+    <option
+      value={71}
+    >
+      Faroe Islands
+    </option>
+    <option
+      value={72}
+    >
+      Fiji
+    </option>
+    <option
+      value={73}
+    >
+      Finland
+    </option>
+    <option
+      value={74}
+    >
+      France
+    </option>
+    <option
+      value={75}
+    >
+      French Guiana
+    </option>
+    <option
+      value={76}
+    >
+      French Polynesia
+    </option>
+    <option
+      value={77}
+    >
+      French Southern Territories
+    </option>
+    <option
+      value={78}
+    >
+      Gabon
+    </option>
+    <option
+      value={79}
+    >
+      Gambia
+    </option>
+    <option
+      value={80}
+    >
+      Georgia
+    </option>
+    <option
+      value={81}
+    >
+      Germany
+    </option>
+    <option
+      value={82}
+    >
+      Ghana
+    </option>
+    <option
+      value={83}
+    >
+      Gibraltar
+    </option>
+    <option
+      value={84}
+    >
+      Greece
+    </option>
+    <option
+      value={85}
+    >
+      Greenland
+    </option>
+    <option
+      value={86}
+    >
+      Grenada
+    </option>
+    <option
+      value={87}
+    >
+      Guadeloupe
+    </option>
+    <option
+      value={88}
+    >
+      Guam
+    </option>
+    <option
+      value={89}
+    >
+      Guatemala
+    </option>
+    <option
+      value={90}
+    >
+      Guernsey
+    </option>
+    <option
+      value={91}
+    >
+      Guinea
+    </option>
+    <option
+      value={92}
+    >
+      Guinea-Bissau
+    </option>
+    <option
+      value={93}
+    >
+      Guyana
+    </option>
+    <option
+      value={94}
+    >
+      Haiti
+    </option>
+    <option
+      value={95}
+    >
+      Heard and McDonald Islands
+    </option>
+    <option
+      value={96}
+    >
+      Holy See (Vatican City State)
+    </option>
+    <option
+      value={97}
+    >
+      Honduras
+    </option>
+    <option
+      value={98}
+    >
+      Hong Kong
+    </option>
+    <option
+      value={99}
+    >
+      Hungary
+    </option>
+    <option
+      value={100}
+    >
+      Iceland
+    </option>
+    <option
+      value={101}
+    >
+      India
+    </option>
+    <option
+      value={102}
+    >
+      Indonesia
+    </option>
+    <option
+      value={103}
+    >
+      Islamic Republic of Iran
+    </option>
+    <option
+      value={104}
+    >
+      Iraq
+    </option>
+    <option
+      value={105}
+    >
+      Ireland
+    </option>
+    <option
+      value={106}
+    >
+      Isle of Man
+    </option>
+    <option
+      value={107}
+    >
+      Israel
+    </option>
+    <option
+      value={108}
+    >
+      Italy
+    </option>
+    <option
+      value={109}
+    >
+      Jamaica
+    </option>
+    <option
+      value={110}
+    >
+      Japan
+    </option>
+    <option
+      value={111}
+    >
+      Jersey
+    </option>
+    <option
+      value={112}
+    >
+      Jordan
+    </option>
+    <option
+      value={113}
+    >
+      Kazakhstan
+    </option>
+    <option
+      value={114}
+    >
+      Kenya
+    </option>
+    <option
+      value={115}
+    >
+      Kiribati
+    </option>
+    <option
+      value={116}
+    >
+      Democratic People's Republic of Korea
+    </option>
+    <option
+      value={117}
+    >
+      Republic of Korea
+    </option>
+    <option
+      value={118}
+    >
+      Kuwait
+    </option>
+    <option
+      value={119}
+    >
+      Kyrgyzstan
+    </option>
+    <option
+      value={120}
+    >
+      Lao People's Democratic Republic
+    </option>
+    <option
+      value={121}
+    >
+      Latvia
+    </option>
+    <option
+      value={122}
+    >
+      Lebanon
+    </option>
+    <option
+      value={123}
+    >
+      Lesotho
+    </option>
+    <option
+      value={124}
+    >
+      Liberia
+    </option>
+    <option
+      value={125}
+    >
+      Libya
+    </option>
+    <option
+      value={126}
+    >
+      Liechtenstein
+    </option>
+    <option
+      value={127}
+    >
+      Lithuania
+    </option>
+    <option
+      value={128}
+    >
+      Luxembourg
+    </option>
+    <option
+      value={129}
+    >
+      Macao
+    </option>
+    <option
+      value={130}
+    >
+      Macedonia
+    </option>
+    <option
+      value={131}
+    >
+      Madagascar
+    </option>
+    <option
+      value={132}
+    >
+      Malawi
+    </option>
+    <option
+      value={133}
+    >
+      Malaysia
+    </option>
+    <option
+      value={134}
+    >
+      Maldives
+    </option>
+    <option
+      value={135}
+    >
+      Mali
+    </option>
+    <option
+      value={136}
+    >
+      Malta
+    </option>
+    <option
+      value={137}
+    >
+      Marshall Islands
+    </option>
+    <option
+      value={138}
+    >
+      Martinique
+    </option>
+    <option
+      value={139}
+    >
+      Mauritania
+    </option>
+    <option
+      value={140}
+    >
+      Mauritius
+    </option>
+    <option
+      value={141}
+    >
+      Mayotte
+    </option>
+    <option
+      value={142}
+    >
+      Mexico
+    </option>
+    <option
+      value={143}
+    >
+      Micronesia
+    </option>
+    <option
+      value={144}
+    >
+      Moldova
+    </option>
+    <option
+      value={145}
+    >
+      Monaco
+    </option>
+    <option
+      value={146}
+    >
+      Mongolia
+    </option>
+    <option
+      value={147}
+    >
+      Montenegro
+    </option>
+    <option
+      value={148}
+    >
+      Montserrat
+    </option>
+    <option
+      value={149}
+    >
+      Morocco
+    </option>
+    <option
+      value={150}
+    >
+      Mozambique
+    </option>
+    <option
+      value={151}
+    >
+      Myanmar
+    </option>
+    <option
+      value={152}
+    >
+      Namibia
+    </option>
+    <option
+      value={153}
+    >
+      Nauru
+    </option>
+    <option
+      value={154}
+    >
+      Nepal
+    </option>
+    <option
+      value={155}
+    >
+      Netherlands
+    </option>
+    <option
+      value={156}
+    >
+      New Caledonia
+    </option>
+    <option
+      value={157}
+    >
+      New Zealand
+    </option>
+    <option
+      value={158}
+    >
+      Nicaragua
+    </option>
+    <option
+      value={159}
+    >
+      Niger
+    </option>
+    <option
+      value={160}
+    >
+      Nigeria
+    </option>
+    <option
+      value={161}
+    >
+      Niue
+    </option>
+    <option
+      value={162}
+    >
+      Norfolk Island
+    </option>
+    <option
+      value={163}
+    >
+      Northern Mariana Islands
+    </option>
+    <option
+      value={164}
+    >
+      Norway
+    </option>
+    <option
+      value={165}
+    >
+      Oman
+    </option>
+    <option
+      value={166}
+    >
+      Pakistan
+    </option>
+    <option
+      value={167}
+    >
+      Palau
+    </option>
+    <option
+      value={168}
+    >
+      Palestine
+    </option>
+    <option
+      value={169}
+    >
+      Panama
+    </option>
+    <option
+      value={170}
+    >
+      Papua New Guinea
+    </option>
+    <option
+      value={171}
+    >
+      Paraguay
+    </option>
+    <option
+      value={172}
+    >
+      Peru
+    </option>
+    <option
+      value={173}
+    >
+      Philippines
+    </option>
+    <option
+      value={174}
+    >
+      Pitcairn
+    </option>
+    <option
+      value={175}
+    >
+      Poland
+    </option>
+    <option
+      value={176}
+    >
+      Portugal
+    </option>
+    <option
+      value={177}
+    >
+      Puerto Rico
+    </option>
+    <option
+      value={178}
+    >
+      Qatar
+    </option>
+    <option
+      value={179}
+    >
+      Reunion
+    </option>
+    <option
+      value={180}
+    >
+      Romania
+    </option>
+    <option
+      value={181}
+    >
+      Russian Federation
+    </option>
+    <option
+      value={182}
+    >
+      Rwanda
+    </option>
+    <option
+      value={183}
+    >
+      Saint Barthelemy
+    </option>
+    <option
+      value={184}
+    >
+      Saint Helena
+    </option>
+    <option
+      value={185}
+    >
+      Saint Kitts and Nevis
+    </option>
+    <option
+      value={186}
+    >
+      Saint Lucia
+    </option>
+    <option
+      value={187}
+    >
+      Saint Martin
+    </option>
+    <option
+      value={188}
+    >
+      Saint Pierre and Miquelon
+    </option>
+    <option
+      value={189}
+    >
+      Saint Vincent and the Grenadines
+    </option>
+    <option
+      value={190}
+    >
+      Samoa
+    </option>
+    <option
+      value={191}
+    >
+      San Marino
+    </option>
+    <option
+      value={192}
+    >
+      Sao Tome and Principe
+    </option>
+    <option
+      value={193}
+    >
+      Saudi Arabia
+    </option>
+    <option
+      value={194}
+    >
+      Senegal
+    </option>
+    <option
+      value={195}
+    >
+      Serbia
+    </option>
+    <option
+      value={196}
+    >
+      Seychelles
+    </option>
+    <option
+      value={197}
+    >
+      Sierra Leone
+    </option>
+    <option
+      value={198}
+    >
+      Singapore
+    </option>
+    <option
+      value={199}
+    >
+      Sint Maarten
+    </option>
+    <option
+      value={200}
+    >
+      Slovakia
+    </option>
+    <option
+      value={201}
+    >
+      Slovenia
+    </option>
+    <option
+      value={202}
+    >
+      Solomon Islands
+    </option>
+    <option
+      value={203}
+    >
+      Somalia
+    </option>
+    <option
+      value={204}
+    >
+      South Africa
+    </option>
+    <option
+      value={205}
+    >
+      South Georgia
+    </option>
+    <option
+      value={206}
+    >
+      South Sudan
+    </option>
+    <option
+      value={207}
+    >
+      Spain
+    </option>
+    <option
+      value={208}
+    >
+      Sri Lanka
+    </option>
+    <option
+      value={209}
+    >
+      Sudan
+    </option>
+    <option
+      value={210}
+    >
+      Suriname
+    </option>
+    <option
+      value={211}
+    >
+      Svalbard and Jan Mayen
+    </option>
+    <option
+      value={212}
+    >
+      Swaziland
+    </option>
+    <option
+      value={213}
+    >
+      Sweden
+    </option>
+    <option
+      value={214}
+    >
+      Switzerland
+    </option>
+    <option
+      value={215}
+    >
+      Syrian Arab Republic
+    </option>
+    <option
+      value={216}
+    >
+      Taiwan
+    </option>
+    <option
+      value={217}
+    >
+      Tajikistan
+    </option>
+    <option
+      value={218}
+    >
+      Tanzania
+    </option>
+    <option
+      value={219}
+    >
+      Thailand
+    </option>
+    <option
+      value={220}
+    >
+      Timor Leste
+    </option>
+    <option
+      value={221}
+    >
+      Togo
+    </option>
+    <option
+      value={222}
+    >
+      Tokelau
+    </option>
+    <option
+      value={223}
+    >
+      Tonga
+    </option>
+    <option
+      value={224}
+    >
+      Trinidad and Tobago
+    </option>
+    <option
+      value={225}
+    >
+      Tunisia
+    </option>
+    <option
+      value={226}
+    >
+      Turkey
+    </option>
+    <option
+      value={227}
+    >
+      Turkmenistan
+    </option>
+    <option
+      value={228}
+    >
+      Turks and Caicos Islands
+    </option>
+    <option
+      value={229}
+    >
+      Tuvalu
+    </option>
+    <option
+      value={230}
+    >
+      Uganda
+    </option>
+    <option
+      value={231}
+    >
+      Ukraine
+    </option>
+    <option
+      value={232}
+    >
+      United Arab Emirates
+    </option>
+    <option
+      value={233}
+    >
+      United Kingdom
+    </option>
+    <option
+      value={234}
+    >
+      United States of America
+    </option>
+    <option
+      value={235}
+    >
+      Uruguay
+    </option>
+    <option
+      value={236}
+    >
+      Uzbekistan
+    </option>
+    <option
+      value={237}
+    >
+      Vanuatu
+    </option>
+    <option
+      value={238}
+    >
+      Venezuela
+    </option>
+    <option
+      value={239}
+    >
+      Viet Nam
+    </option>
+    <option
+      value={240}
+    >
+      Virgin Islands
+    </option>
+    <option
+      value={241}
+    >
+      Wallis and Futuna
+    </option>
+    <option
+      value={242}
+    >
+      Western Sahara
+    </option>
+    <option
+      value={243}
+    >
+      Yemen
+    </option>
+    <option
+      value={244}
+    >
+      Zambia
+    </option>
+    <option
+      value={245}
+    >
+      Zimbabwe
+    </option>
+  </select>
+</div>
+`;
+
+exports[`should render with a custom formatted label 1`] = `
+<div
+  className="sc-bxivhb csvolz"
+>
+  <select
+    className=""
+    id="country"
+    name="country"
+    onChange={[Function]}
+    style={Object {}}
+  >
+    <option
+      value="null"
+    >
+      Select a country ...
+    </option>
+    <option
+      value={0}
+    >
+      undefined - Afghanistan
+    </option>
+    <option
+      value={1}
+    >
+      undefined - Aland Islands
+    </option>
+    <option
+      value={2}
+    >
+      undefined - Albania
+    </option>
+    <option
+      value={3}
+    >
+      undefined - Algeria
+    </option>
+    <option
+      value={4}
+    >
+      undefined - American Samoa
+    </option>
+    <option
+      value={5}
+    >
+      undefined - Andorra
+    </option>
+    <option
+      value={6}
+    >
+      undefined - Angola
+    </option>
+    <option
+      value={7}
+    >
+      undefined - Anguilla
+    </option>
+    <option
+      value={8}
+    >
+      undefined - Antarctica
+    </option>
+    <option
+      value={9}
+    >
+      undefined - Antigua and Barbuda
+    </option>
+    <option
+      value={10}
+    >
+      undefined - Argentina
+    </option>
+    <option
+      value={11}
+    >
+      undefined - Armenia
+    </option>
+    <option
+      value={12}
+    >
+      undefined - Aruba
+    </option>
+    <option
+      value={13}
+    >
+      undefined - Australia
+    </option>
+    <option
+      value={14}
+    >
+      undefined - Austria
+    </option>
+    <option
+      value={15}
+    >
+      undefined - Azerbaijan
+    </option>
+    <option
+      value={16}
+    >
+      undefined - Bahamas
+    </option>
+    <option
+      value={17}
+    >
+      undefined - Bahrain
+    </option>
+    <option
+      value={18}
+    >
+      undefined - Bangladesh
+    </option>
+    <option
+      value={19}
+    >
+      undefined - Barbados
+    </option>
+    <option
+      value={20}
+    >
+      undefined - Belarus
+    </option>
+    <option
+      value={21}
+    >
+      undefined - Belgium
+    </option>
+    <option
+      value={22}
+    >
+      undefined - Belize
+    </option>
+    <option
+      value={23}
+    >
+      undefined - Benin
+    </option>
+    <option
+      value={24}
+    >
+      undefined - Bermuda
+    </option>
+    <option
+      value={25}
+    >
+      undefined - Bhutan
+    </option>
+    <option
+      value={26}
+    >
+      undefined - Bolivia
+    </option>
+    <option
+      value={27}
+    >
+      undefined - Bonaire
+    </option>
+    <option
+      value={28}
+    >
+      undefined - Bosnia and Herzegovina
+    </option>
+    <option
+      value={29}
+    >
+      undefined - Botswana
+    </option>
+    <option
+      value={30}
+    >
+      undefined - Bouvet Island
+    </option>
+    <option
+      value={31}
+    >
+      undefined - Brazil
+    </option>
+    <option
+      value={32}
+    >
+      undefined - Brunei Darussalam
+    </option>
+    <option
+      value={33}
+    >
+      undefined - Bulgaria
+    </option>
+    <option
+      value={34}
+    >
+      undefined - Burkina Faso
+    </option>
+    <option
+      value={35}
+    >
+      undefined - Burundi
+    </option>
+    <option
+      value={36}
+    >
+      undefined - Cape Verde
+    </option>
+    <option
+      value={37}
+    >
+      undefined - Cambodia
+    </option>
+    <option
+      value={38}
+    >
+      undefined - Cameroon
+    </option>
+    <option
+      value={39}
+    >
+      undefined - Canada
+    </option>
+    <option
+      value={40}
+    >
+      undefined - Cayman Islands
+    </option>
+    <option
+      value={41}
+    >
+      undefined - Central African Republic
+    </option>
+    <option
+      value={42}
+    >
+      undefined - Chad
+    </option>
+    <option
+      value={43}
+    >
+      undefined - Chile
+    </option>
+    <option
+      value={44}
+    >
+      undefined - China
+    </option>
+    <option
+      value={45}
+    >
+      undefined - Christmas Island
+    </option>
+    <option
+      value={46}
+    >
+      undefined - Cocos Islands
+    </option>
+    <option
+      value={47}
+    >
+      undefined - Colombia
+    </option>
+    <option
+      value={48}
+    >
+      undefined - Comoros
+    </option>
+    <option
+      value={49}
+    >
+      undefined - Congo
+    </option>
+    <option
+      value={50}
+    >
+      undefined - The Democratic Republic of the Congo
+    </option>
+    <option
+      value={51}
+    >
+      undefined - Cook Islands
+    </option>
+    <option
+      value={52}
+    >
+      undefined - Costa Rica
+    </option>
+    <option
+      value={53}
+    >
+      undefined - Cote d'Ivoire
+    </option>
+    <option
+      value={54}
+    >
+      undefined - Croatia
+    </option>
+    <option
+      value={55}
+    >
+      undefined - Cuba
+    </option>
+    <option
+      value={56}
+    >
+      undefined - Curacao
+    </option>
+    <option
+      value={57}
+    >
+      undefined - Cyprus
+    </option>
+    <option
+      value={58}
+    >
+      undefined - Czech Republic
+    </option>
+    <option
+      value={59}
+    >
+      undefined - Denmark
+    </option>
+    <option
+      value={60}
+    >
+      undefined - Djibouti
+    </option>
+    <option
+      value={61}
+    >
+      undefined - Dominica
+    </option>
+    <option
+      value={62}
+    >
+      undefined - Dominican Republic
+    </option>
+    <option
+      value={63}
+    >
+      undefined - Ecuador
+    </option>
+    <option
+      value={64}
+    >
+      undefined - Egypt
+    </option>
+    <option
+      value={65}
+    >
+      undefined - El Salvador
+    </option>
+    <option
+      value={66}
+    >
+      undefined - Equatorial Guinea
+    </option>
+    <option
+      value={67}
+    >
+      undefined - Eritrea
+    </option>
+    <option
+      value={68}
+    >
+      undefined - Estonia
+    </option>
+    <option
+      value={69}
+    >
+      undefined - Ethiopia
+    </option>
+    <option
+      value={70}
+    >
+      undefined - Falkland Islands
+    </option>
+    <option
+      value={71}
+    >
+      undefined - Faroe Islands
+    </option>
+    <option
+      value={72}
+    >
+      undefined - Fiji
+    </option>
+    <option
+      value={73}
+    >
+      undefined - Finland
+    </option>
+    <option
+      value={74}
+    >
+      undefined - France
+    </option>
+    <option
+      value={75}
+    >
+      undefined - French Guiana
+    </option>
+    <option
+      value={76}
+    >
+      undefined - French Polynesia
+    </option>
+    <option
+      value={77}
+    >
+      undefined - French Southern Territories
+    </option>
+    <option
+      value={78}
+    >
+      undefined - Gabon
+    </option>
+    <option
+      value={79}
+    >
+      undefined - Gambia
+    </option>
+    <option
+      value={80}
+    >
+      undefined - Georgia
+    </option>
+    <option
+      value={81}
+    >
+      undefined - Germany
+    </option>
+    <option
+      value={82}
+    >
+      undefined - Ghana
+    </option>
+    <option
+      value={83}
+    >
+      undefined - Gibraltar
+    </option>
+    <option
+      value={84}
+    >
+      undefined - Greece
+    </option>
+    <option
+      value={85}
+    >
+      undefined - Greenland
+    </option>
+    <option
+      value={86}
+    >
+      undefined - Grenada
+    </option>
+    <option
+      value={87}
+    >
+      undefined - Guadeloupe
+    </option>
+    <option
+      value={88}
+    >
+      undefined - Guam
+    </option>
+    <option
+      value={89}
+    >
+      undefined - Guatemala
+    </option>
+    <option
+      value={90}
+    >
+      undefined - Guernsey
+    </option>
+    <option
+      value={91}
+    >
+      undefined - Guinea
+    </option>
+    <option
+      value={92}
+    >
+      undefined - Guinea-Bissau
+    </option>
+    <option
+      value={93}
+    >
+      undefined - Guyana
+    </option>
+    <option
+      value={94}
+    >
+      undefined - Haiti
+    </option>
+    <option
+      value={95}
+    >
+      undefined - Heard and McDonald Islands
+    </option>
+    <option
+      value={96}
+    >
+      undefined - Holy See (Vatican City State)
+    </option>
+    <option
+      value={97}
+    >
+      undefined - Honduras
+    </option>
+    <option
+      value={98}
+    >
+      undefined - Hong Kong
+    </option>
+    <option
+      value={99}
+    >
+      undefined - Hungary
+    </option>
+    <option
+      value={100}
+    >
+      undefined - Iceland
+    </option>
+    <option
+      value={101}
+    >
+      undefined - India
+    </option>
+    <option
+      value={102}
+    >
+      undefined - Indonesia
+    </option>
+    <option
+      value={103}
+    >
+      undefined - Islamic Republic of Iran
+    </option>
+    <option
+      value={104}
+    >
+      undefined - Iraq
+    </option>
+    <option
+      value={105}
+    >
+      undefined - Ireland
+    </option>
+    <option
+      value={106}
+    >
+      undefined - Isle of Man
+    </option>
+    <option
+      value={107}
+    >
+      undefined - Israel
+    </option>
+    <option
+      value={108}
+    >
+      undefined - Italy
+    </option>
+    <option
+      value={109}
+    >
+      undefined - Jamaica
+    </option>
+    <option
+      value={110}
+    >
+      undefined - Japan
+    </option>
+    <option
+      value={111}
+    >
+      undefined - Jersey
+    </option>
+    <option
+      value={112}
+    >
+      undefined - Jordan
+    </option>
+    <option
+      value={113}
+    >
+      undefined - Kazakhstan
+    </option>
+    <option
+      value={114}
+    >
+      undefined - Kenya
+    </option>
+    <option
+      value={115}
+    >
+      undefined - Kiribati
+    </option>
+    <option
+      value={116}
+    >
+      undefined - Democratic People's Republic of Korea
+    </option>
+    <option
+      value={117}
+    >
+      undefined - Republic of Korea
+    </option>
+    <option
+      value={118}
+    >
+      undefined - Kuwait
+    </option>
+    <option
+      value={119}
+    >
+      undefined - Kyrgyzstan
+    </option>
+    <option
+      value={120}
+    >
+      undefined - Lao People's Democratic Republic
+    </option>
+    <option
+      value={121}
+    >
+      undefined - Latvia
+    </option>
+    <option
+      value={122}
+    >
+      undefined - Lebanon
+    </option>
+    <option
+      value={123}
+    >
+      undefined - Lesotho
+    </option>
+    <option
+      value={124}
+    >
+      undefined - Liberia
+    </option>
+    <option
+      value={125}
+    >
+      undefined - Libya
+    </option>
+    <option
+      value={126}
+    >
+      undefined - Liechtenstein
+    </option>
+    <option
+      value={127}
+    >
+      undefined - Lithuania
+    </option>
+    <option
+      value={128}
+    >
+      undefined - Luxembourg
+    </option>
+    <option
+      value={129}
+    >
+      undefined - Macao
+    </option>
+    <option
+      value={130}
+    >
+      undefined - Macedonia
+    </option>
+    <option
+      value={131}
+    >
+      undefined - Madagascar
+    </option>
+    <option
+      value={132}
+    >
+      undefined - Malawi
+    </option>
+    <option
+      value={133}
+    >
+      undefined - Malaysia
+    </option>
+    <option
+      value={134}
+    >
+      undefined - Maldives
+    </option>
+    <option
+      value={135}
+    >
+      undefined - Mali
+    </option>
+    <option
+      value={136}
+    >
+      undefined - Malta
+    </option>
+    <option
+      value={137}
+    >
+      undefined - Marshall Islands
+    </option>
+    <option
+      value={138}
+    >
+      undefined - Martinique
+    </option>
+    <option
+      value={139}
+    >
+      undefined - Mauritania
+    </option>
+    <option
+      value={140}
+    >
+      undefined - Mauritius
+    </option>
+    <option
+      value={141}
+    >
+      undefined - Mayotte
+    </option>
+    <option
+      value={142}
+    >
+      undefined - Mexico
+    </option>
+    <option
+      value={143}
+    >
+      undefined - Micronesia
+    </option>
+    <option
+      value={144}
+    >
+      undefined - Moldova
+    </option>
+    <option
+      value={145}
+    >
+      undefined - Monaco
+    </option>
+    <option
+      value={146}
+    >
+      undefined - Mongolia
+    </option>
+    <option
+      value={147}
+    >
+      undefined - Montenegro
+    </option>
+    <option
+      value={148}
+    >
+      undefined - Montserrat
+    </option>
+    <option
+      value={149}
+    >
+      undefined - Morocco
+    </option>
+    <option
+      value={150}
+    >
+      undefined - Mozambique
+    </option>
+    <option
+      value={151}
+    >
+      undefined - Myanmar
+    </option>
+    <option
+      value={152}
+    >
+      undefined - Namibia
+    </option>
+    <option
+      value={153}
+    >
+      undefined - Nauru
+    </option>
+    <option
+      value={154}
+    >
+      undefined - Nepal
+    </option>
+    <option
+      value={155}
+    >
+      undefined - Netherlands
+    </option>
+    <option
+      value={156}
+    >
+      undefined - New Caledonia
+    </option>
+    <option
+      value={157}
+    >
+      undefined - New Zealand
+    </option>
+    <option
+      value={158}
+    >
+      undefined - Nicaragua
+    </option>
+    <option
+      value={159}
+    >
+      undefined - Niger
+    </option>
+    <option
+      value={160}
+    >
+      undefined - Nigeria
+    </option>
+    <option
+      value={161}
+    >
+      undefined - Niue
+    </option>
+    <option
+      value={162}
+    >
+      undefined - Norfolk Island
+    </option>
+    <option
+      value={163}
+    >
+      undefined - Northern Mariana Islands
+    </option>
+    <option
+      value={164}
+    >
+      undefined - Norway
+    </option>
+    <option
+      value={165}
+    >
+      undefined - Oman
+    </option>
+    <option
+      value={166}
+    >
+      undefined - Pakistan
+    </option>
+    <option
+      value={167}
+    >
+      undefined - Palau
+    </option>
+    <option
+      value={168}
+    >
+      undefined - Palestine
+    </option>
+    <option
+      value={169}
+    >
+      undefined - Panama
+    </option>
+    <option
+      value={170}
+    >
+      undefined - Papua New Guinea
+    </option>
+    <option
+      value={171}
+    >
+      undefined - Paraguay
+    </option>
+    <option
+      value={172}
+    >
+      undefined - Peru
+    </option>
+    <option
+      value={173}
+    >
+      undefined - Philippines
+    </option>
+    <option
+      value={174}
+    >
+      undefined - Pitcairn
+    </option>
+    <option
+      value={175}
+    >
+      undefined - Poland
+    </option>
+    <option
+      value={176}
+    >
+      undefined - Portugal
+    </option>
+    <option
+      value={177}
+    >
+      undefined - Puerto Rico
+    </option>
+    <option
+      value={178}
+    >
+      undefined - Qatar
+    </option>
+    <option
+      value={179}
+    >
+      undefined - Reunion
+    </option>
+    <option
+      value={180}
+    >
+      undefined - Romania
+    </option>
+    <option
+      value={181}
+    >
+      undefined - Russian Federation
+    </option>
+    <option
+      value={182}
+    >
+      undefined - Rwanda
+    </option>
+    <option
+      value={183}
+    >
+      undefined - Saint Barthelemy
+    </option>
+    <option
+      value={184}
+    >
+      undefined - Saint Helena
+    </option>
+    <option
+      value={185}
+    >
+      undefined - Saint Kitts and Nevis
+    </option>
+    <option
+      value={186}
+    >
+      undefined - Saint Lucia
+    </option>
+    <option
+      value={187}
+    >
+      undefined - Saint Martin
+    </option>
+    <option
+      value={188}
+    >
+      undefined - Saint Pierre and Miquelon
+    </option>
+    <option
+      value={189}
+    >
+      undefined - Saint Vincent and the Grenadines
+    </option>
+    <option
+      value={190}
+    >
+      undefined - Samoa
+    </option>
+    <option
+      value={191}
+    >
+      undefined - San Marino
+    </option>
+    <option
+      value={192}
+    >
+      undefined - Sao Tome and Principe
+    </option>
+    <option
+      value={193}
+    >
+      undefined - Saudi Arabia
+    </option>
+    <option
+      value={194}
+    >
+      undefined - Senegal
+    </option>
+    <option
+      value={195}
+    >
+      undefined - Serbia
+    </option>
+    <option
+      value={196}
+    >
+      undefined - Seychelles
+    </option>
+    <option
+      value={197}
+    >
+      undefined - Sierra Leone
+    </option>
+    <option
+      value={198}
+    >
+      undefined - Singapore
+    </option>
+    <option
+      value={199}
+    >
+      undefined - Sint Maarten
+    </option>
+    <option
+      value={200}
+    >
+      undefined - Slovakia
+    </option>
+    <option
+      value={201}
+    >
+      undefined - Slovenia
+    </option>
+    <option
+      value={202}
+    >
+      undefined - Solomon Islands
+    </option>
+    <option
+      value={203}
+    >
+      undefined - Somalia
+    </option>
+    <option
+      value={204}
+    >
+      undefined - South Africa
+    </option>
+    <option
+      value={205}
+    >
+      undefined - South Georgia
+    </option>
+    <option
+      value={206}
+    >
+      undefined - South Sudan
+    </option>
+    <option
+      value={207}
+    >
+      undefined - Spain
+    </option>
+    <option
+      value={208}
+    >
+      undefined - Sri Lanka
+    </option>
+    <option
+      value={209}
+    >
+      undefined - Sudan
+    </option>
+    <option
+      value={210}
+    >
+      undefined - Suriname
+    </option>
+    <option
+      value={211}
+    >
+      undefined - Svalbard and Jan Mayen
+    </option>
+    <option
+      value={212}
+    >
+      undefined - Swaziland
+    </option>
+    <option
+      value={213}
+    >
+      undefined - Sweden
+    </option>
+    <option
+      value={214}
+    >
+      undefined - Switzerland
+    </option>
+    <option
+      value={215}
+    >
+      undefined - Syrian Arab Republic
+    </option>
+    <option
+      value={216}
+    >
+      undefined - Taiwan
+    </option>
+    <option
+      value={217}
+    >
+      undefined - Tajikistan
+    </option>
+    <option
+      value={218}
+    >
+      undefined - Tanzania
+    </option>
+    <option
+      value={219}
+    >
+      undefined - Thailand
+    </option>
+    <option
+      value={220}
+    >
+      undefined - Timor Leste
+    </option>
+    <option
+      value={221}
+    >
+      undefined - Togo
+    </option>
+    <option
+      value={222}
+    >
+      undefined - Tokelau
+    </option>
+    <option
+      value={223}
+    >
+      undefined - Tonga
+    </option>
+    <option
+      value={224}
+    >
+      undefined - Trinidad and Tobago
+    </option>
+    <option
+      value={225}
+    >
+      undefined - Tunisia
+    </option>
+    <option
+      value={226}
+    >
+      undefined - Turkey
+    </option>
+    <option
+      value={227}
+    >
+      undefined - Turkmenistan
+    </option>
+    <option
+      value={228}
+    >
+      undefined - Turks and Caicos Islands
+    </option>
+    <option
+      value={229}
+    >
+      undefined - Tuvalu
+    </option>
+    <option
+      value={230}
+    >
+      undefined - Uganda
+    </option>
+    <option
+      value={231}
+    >
+      undefined - Ukraine
+    </option>
+    <option
+      value={232}
+    >
+      undefined - United Arab Emirates
+    </option>
+    <option
+      value={233}
+    >
+      undefined - United Kingdom
+    </option>
+    <option
+      value={234}
+    >
+      undefined - United States of America
+    </option>
+    <option
+      value={235}
+    >
+      undefined - Uruguay
+    </option>
+    <option
+      value={236}
+    >
+      undefined - Uzbekistan
+    </option>
+    <option
+      value={237}
+    >
+      undefined - Vanuatu
+    </option>
+    <option
+      value={238}
+    >
+      undefined - Venezuela
+    </option>
+    <option
+      value={239}
+    >
+      undefined - Viet Nam
+    </option>
+    <option
+      value={240}
+    >
+      undefined - Virgin Islands
+    </option>
+    <option
+      value={241}
+    >
+      undefined - Wallis and Futuna
+    </option>
+    <option
+      value={242}
+    >
+      undefined - Western Sahara
+    </option>
+    <option
+      value={243}
+    >
+      undefined - Yemen
+    </option>
+    <option
+      value={244}
+    >
+      undefined - Zambia
+    </option>
+    <option
+      value={245}
+    >
+      undefined - Zimbabwe
+    </option>
+  </select>
+</div>
+`;
